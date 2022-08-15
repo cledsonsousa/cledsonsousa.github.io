@@ -12,7 +12,7 @@ redirect_from:
 Educação
 ======
 * Engenharia de Telecomunicações, UFF, 1997
-* M.Sc. Redes de sensore, UFF, 2015
+* M.Sc. Redes de sensores, UFF, 2015
 * D. Sc. Radios Cognitivos, UFF, 2019 
 
 Experiência profissional
@@ -22,9 +22,7 @@ Experiência profissional
 
 Publicações
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ <a href="http://lattes.cnpq.br/7195080748145566" target="_top">Consulte o Lattes</a>
   
   
 Ensino
@@ -35,6 +33,5 @@ Ensino
   
 Projetos, pesquisa e extensão
 ======
-  <ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <a href="https://cledsonsousa.github.io/portfolio" target="_top">Consulte em Projetos</a>
+  
