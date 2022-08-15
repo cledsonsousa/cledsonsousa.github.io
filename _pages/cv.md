@@ -26,7 +26,6 @@ Publicações
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
   
 Ensino
 ======
@@ -36,6 +35,6 @@ Ensino
   
 Projetos, pesquisa e extensão
 ======
-* <ul>{% for post in site.portfolio %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
