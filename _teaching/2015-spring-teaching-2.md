@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Arquietetura e Sistemas de Computação para Telecomunicações"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Graduação"
+permalink: /teaching/2014-spring-teaching-1
+venue: "UFF - Engenharia de Telecomunicações"
+date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+
+Conceitos de arquitetura de switches e roteadores
 ======
 
-Heading 2
+Soluções para acesso rápido a memória, enfileiramento, QoS e malha de comutação.
 ======
 
-Heading 3
+Como lidar com arquiteturas diferente da I386
 ======
