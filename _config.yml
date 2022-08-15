@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cledson de Sousa"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Cledson de Sousa"
+  avatar           : "cledson_fd_preto.png"
   bio              : "Adjunct Professor of Telecommunications Engineerin at the Universidade Federal Fluminense, Niterói, Rio de Janeiro"
   location         : "Location"
   employer         :
