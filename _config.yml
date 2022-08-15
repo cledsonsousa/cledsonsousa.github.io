@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Home"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Cledson de Sousa"
 description              : &description "personal description"
@@ -81,9 +81,15 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Cledson de Sousa"
   avatar           : "cledson_fd_preto.png"
   bio              : "Adjunct Professor of Telecommunications Engineering at the Universidade Federal Fluminense, Niterói, Rio de Janeiro"
+=======
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Adjunct Professor of Telecommunications Engineerin at the Universidade Federal Fluminense, Niterói, Rio de Janeiro"
+>>>>>>> parent of c9c6be3 (Update _config.yml)
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
