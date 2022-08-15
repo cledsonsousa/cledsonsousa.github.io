@@ -5,16 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Cledson de Sousa"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://cledsonsousa.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cledsonsousa/cledsonsousa.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,15 +80,9 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
-  name             : "Cledson de Sousa"
-  avatar           : "cledson_fd_preto.png"
-  bio              : "Adjunct Professor of Telecommunications Engineering at the Universidade Federal Fluminense, Niterói, Rio de Janeiro"
-=======
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Adjunct Professor of Telecommunications Engineerin at the Universidade Federal Fluminense, Niterói, Rio de Janeiro"
->>>>>>> parent of c9c6be3 (Update _config.yml)
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
