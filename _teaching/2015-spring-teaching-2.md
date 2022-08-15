@@ -1,5 +1,5 @@
 ---
-title: "Arquietetura e Sistemas de Computação para Telecomunicações"
+title: "Arquitetura e Sistemas de Computação para Telecomunicações"
 collection: teaching
 type: "Graduação"
 permalink: /teaching/2014-spring-teaching-1
