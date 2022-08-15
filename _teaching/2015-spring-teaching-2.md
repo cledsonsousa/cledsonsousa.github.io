@@ -4,11 +4,9 @@ collection: teaching
 type: "Graduação"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UFF - Engenharia de Telecomunicações"
-date: 2014-01-01
+date: 2022-01-01
 location: "City, Country"
 ---
-
-
 
 Conceitos de arquitetura de switches e roteadores
 ======
