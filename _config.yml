@@ -4,12 +4,13 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-cledsonsousa/cledsonsousa.github.io
+
+
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Home"
+name                     : &name "Cledson de Sousa"
 description              : &description "personal description"
 url                      : https://cledsonsousa.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cledsons de Sousa"
+  name             : "Cledson de Sousa"
   avatar           : "cledson_fd_preto.png"
-  bio              : "Adjunct Professor of Telecommunications Engineering at the Universidade Federal Fluminense, Niterói"
-  location         : "Rio de Janeiro, Brasil"
+  bio              : "Adjunct Professor of Telecommunications Engineering at the Universidade Federal Fluminense, Niterói, Rio de Janeiro"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
