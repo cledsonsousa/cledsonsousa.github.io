@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mini Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<p p align="justify">Concluiu sua graduação em Engenharia de Telecomunicações em 1997, seu mestrado também em Engenharia de Telecomunicações em 2013 e seu doutoramento em Computação no Instituto de Computação, todos na Universidade Federal Fluminense. Atua como professor do Departamento de Engenharia de Telecomunicações da mesma Instituição. Realiza pesquisas na área de teleinformática com interesse nos seguintes temas: Redes de Sensores, Rádios Cognitivos e Redes Definidas por Software e Channel State Information. <\br>
+Atualmente é Professor do curso de Enenharia de Telecomunicações da Universidade Federal Fluminense.  
+
+</p>
 
 A data-driven personal website
 ======
