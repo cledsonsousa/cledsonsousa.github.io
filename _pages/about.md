@@ -13,8 +13,12 @@ Atualmente é Professor do curso de Enenharia de Telecomunicações da Universid
 
 </p>
 
-A data-driven personal website
+Um pouco de filosofia
 ======
+<p p align="justify"> Apaixonado por tecnologia, matemáticas e cerveja, curioso sobre como a Natureza nos deixou chegar até aqui. Enxergo o estoicismo como um ideal filosófico, que acalma a mente neste antropoceno turbulento. Nada receio se nada espero!<br/>
+Valorizo mais o esforço que o brihantismo, mais ainda quando vem com a disciplina. Malandragem, só aquela positiva que tira onda sem levar vantagem, muito menos sobre o esforço do alheio. Finalmente, coopere sempre que for possível. 
+
+</p>
 
 
 <!-- Getting started
