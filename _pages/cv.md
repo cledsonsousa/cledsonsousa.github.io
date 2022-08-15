@@ -20,7 +20,7 @@ Experiência profissional
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/cledsonsousa" target="_top">Consulte o Linkedin</a>
  
 
-Publications
+Publicações
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -28,7 +28,7 @@ Publications
   
 
   
-Teaching
+Ensino
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
