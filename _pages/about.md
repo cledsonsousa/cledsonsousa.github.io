@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p p align="justify">Concluiu sua graduação em Engenharia de Telecomunicações em 1997, seu mestrado também em Engenharia de Telecomunicações em 2013 e seu doutoramento em Computação no Instituto de Computação, todos na Universidade Federal Fluminense. Atua como professor do Departamento de Engenharia de Telecomunicações da mesma Instituição. Realiza pesquisas na área de teleinformática com interesse nos seguintes temas: Redes de Sensores, Rádios Cognitivos e Redes Definidas por Software e Channel State Information. <\br>
+<p p align="justify">Concluiu sua graduação em Engenharia de Telecomunicações em 1997, seu mestrado também em Engenharia de Telecomunicações em 2013 e seu doutoramento em Computação no Instituto de Computação, todos na Universidade Federal Fluminense. Atua como professor do Departamento de Engenharia de Telecomunicações da mesma Instituição. Realiza pesquisas na área de teleinformática com interesse nos seguintes temas: Redes de Sensores, Rádios Cognitivos e Redes Definidas por Software e Channel State Information. <br/>
 Atualmente é Professor do curso de Enenharia de Telecomunicações da Universidade Federal Fluminense.  
 
 </p>
