@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,10 +83,10 @@ author:
   name             : "Cledson de Sousa"
   avatar           : "cledson_fd_preto.png"
   bio              : "Adjunct Professor of Telecommunications Engineering at the Universidade Federal Fluminense, Niterói, Rio de Janeiro"
-  location         : "Location"
+  location         : "Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.br/citations?user=Ijvq4bQAAAAJ&hl=pt-BR"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,16 +96,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://cledsonsousa.github.io/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  lattes           :
+  linkedin         : "https://www.linkedin.com/in/cledsonsousa"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3892-1799"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "http://lattes.cnpq.br/7195080748145566"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
