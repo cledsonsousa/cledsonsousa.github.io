@@ -203,7 +203,7 @@ pt: &DEFAULT_PT
   related_label              : "Talvez Você Goste Também"
   follow_label               : "Siga"
   feed_label                 : "Feed"
-  powered_by                 : "Feito por"
+  powered_by                 : "A partir do modelo de"
   website_label              : "Site"
   email_label                : "E-mail"
   recent_posts               : "Postagens recentes"
