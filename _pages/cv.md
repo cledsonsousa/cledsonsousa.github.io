@@ -17,12 +17,12 @@ Educação
 
 Experiência profissional
 ======
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/cledsonsousa" target="_top">Consulte o Linkedin</a>
+<a href="https://www.linkedin.com/in/cledsonsousa" target="_top">Visite meu Linkedin.</a>
  
 
 Publicações
 ======
- <a href="http://lattes.cnpq.br/7195080748145566" target="_top">Consulte o Lattes</a>
+ <a href="http://lattes.cnpq.br/7195080748145566" target="_top">Visite meu Lattes.</a>
   
   
 Ensino
@@ -33,5 +33,5 @@ Ensino
   
 Projetos, pesquisa e extensão
 ======
-  <a href="https://cledsonsousa.github.io/portfolio" target="_top">Consulte em Projetos</a>
+  <a href="https://cledsonsousa.github.io/portfolio" target="_top">Visite os Projetos.</a>
   
