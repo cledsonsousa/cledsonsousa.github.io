@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<p p align="justify">Concluiu sua graduação em Engenharia de Telecomunicações em 1997, seu mestrado também em Engenharia de Telecomunicações em 2013 e seu doutoramento em Computação no Instituto de Computação em 2019, todos na Universidade Federal Fluminense. Atua como professor do Departamento de Engenharia de Telecomunicações da mesma Instituição. Realiza pesquisas na área de teleinformática com interesse nos seguintes temas: Redes de Sensores, Rádios Cognitivos, Redes Definidas por Software e Channel State Information. <br/>
-Atualmente Leciona como adjunto no curso de Enenharia de Telecomunicações da Universidade Federal Fluminense.  
+<p p align="justify">Concluiu sua graduação em Engenharia de Telecomunicações em 1997, seu mestrado também em Engenharia de Telecomunicações em 2013 e seu doutoramento em Computação no Instituto de Computação em 2019, todos na Universidade Federal Fluminense. Atualmente leciona como adjunto no Departamento de Engenharia de Telecomunicações da mesma Instituição. Realiza pesquisas na área de teleinformática com interesse nos seguintes temas: Redes de Sensores, Rádios Cognitivos, Redes Definidas por Software e Channel State Information. <br/>
+  
 
 </p>
 
 Um pouco de filosofia
 ======
-<p p align="justify"> Apaixonado por tecnologia, matemáticas e cerveja, curioso sobre como a Natureza nos deixou chegar até aqui. Enxergo o estoicismo como um ideal filosófico, que acalma a mente neste antropoceno turbulento. Nada receio se nada espero!<br/>
+<p p align="justify"> Apaixonado por tecnologia, matemáticas e cerveja, curioso sobre como a Natureza nos deixou chegar até aqui. Enxergo o estoicismo como um ideal filosófico, que acalma a mente neste turbulento antropoceno. Nada receio se nada espero!<br/>
 Valorizo mais o esforço que o brilhantismo, mais ainda quando vem com a disciplina. Malandragem, só aquela positiva que tira onda sem levar vantagem, muito menos sobre o esforço do alheio. Finalmente... coopere sempre que for possível. 
 
 </p>
