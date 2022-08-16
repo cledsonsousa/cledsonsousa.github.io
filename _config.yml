@@ -9,7 +9,7 @@
 locale                   : "pt-BR"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Cledson"
+name                     : &name "Cledson de Sousa"
 description              : &description "personal description"
 url                      : https://cledsonsousa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
