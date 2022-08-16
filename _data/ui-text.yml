@@ -201,7 +201,7 @@ pt: &DEFAULT_PT
   comments_title             :
   more_label                 : "Aprenda Mais"
   related_label              : "Talvez Você Goste Também"
-  follow_label               : "Acompanhe em"
+  follow_label               : "Siga"
   feed_label                 : "Feed"
   powered_by                 : "Feito por"
   website_label              : "Site"
