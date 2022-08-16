@@ -7,12 +7,9 @@ venue: "UFF - Engenharia de Telecomunicações"
 date: 2022-01-01
 location: "City, Country"
 ---
-
-- Principais soluções de engenharia de tráfego para redes IP e não IP
+- Principais soluções de engenharia de tráfego para redes IP e não IP, SDN e mais!
 ======
-
 - Soluções Modernas para as Redes de Nova Geração
 ======
-
 - Programabilidade e automação em redes
 ======

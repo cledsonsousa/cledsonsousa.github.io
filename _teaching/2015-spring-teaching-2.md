@@ -7,12 +7,9 @@ venue: "UFF - Engenharia de Telecomunicações"
 date: 2022-01-01
 location: "City, Country"
 ---
-
-- Conceitos de arquitetura de switches e roteadores
+- Conceitos de arquitetura de switches e roteadores e muito mais...
 ======
-
 - Soluções para acesso rápido a memória, enfileiramento, QoS e malha de comutação.
 ======
-
-- Como lidar com arquiteturas diferente da I386
+- Como lidar com arquiteturas diferentes da I386
 ======

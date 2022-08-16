@@ -11,9 +11,9 @@ redirect_from:
 
 Educação
 ======
-* Engenharia de Telecomunicações, UFF, 1997
-* M.Sc. Redes de sensores, UFF, 2015
-* D. Sc. Radios Cognitivos, UFF, 2019 
+* Engenharia de Telecomunicações, UFF, 1997.
+* M.Sc. Redes de sensores, UFF, 2013.
+* D. Sc. Radios Cognitivos, UFF, 2019. 
 
 Experiência profissional
 ======
