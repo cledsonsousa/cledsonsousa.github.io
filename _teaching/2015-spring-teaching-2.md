@@ -12,4 +12,3 @@ location: "City, Country"
 - Soluções para acesso rápido a memória, enfileiramento, QoS e malha de comutação.
 ======
 - Como lidar com arquiteturas diferentes da I386
-======

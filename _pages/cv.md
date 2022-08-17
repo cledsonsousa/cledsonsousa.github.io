@@ -12,18 +12,16 @@ redirect_from:
 Educação
 ======
 * Engenharia de Telecomunicações, UFF, 1997.
-* M.Sc. Redes de sensores, UFF, 2013.
-* D. Sc. Radios Cognitivos, UFF, 2019. 
+* M.Sc. Engenharia de Telecomunicações - Tema: Redes de sensores, EE-UFF, 2013.
+* D. Sc. Computação - Tema: Radios Cognitivos, IC-UFF, 2019. 
 
 Experiência profissional
 ======
-<a href="https://www.linkedin.com/in/cledsonsousa" target="_top">Visite meu Linkedin.</a>
+<a href="https://www.linkedin.com/in/cledsonsousa" target="_top">Visite meu Linkedin</a>
  
-
 Publicações
 ======
- <a href="http://lattes.cnpq.br/7195080748145566" target="_top">Visite meu Lattes.</a>
-  
+ <a href="http://lattes.cnpq.br/7195080748145566" target="_top">Visite meu Lattes</a>
   
 Ensino
 ======

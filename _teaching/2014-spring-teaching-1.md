@@ -12,4 +12,3 @@ location: "City, Country"
 - Soluções Modernas para as Redes de Nova Geração
 ======
 - Programabilidade e automação em redes
-======
