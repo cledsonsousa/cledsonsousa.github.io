@@ -2,7 +2,7 @@
 title: "Demais experiências no magistério"
 collection: teaching
 type: "Graduação"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-spring-teaching-3
 venue: "Outras Universidades, desde 2016"
 #date: 2022-01-01
 location: "City, Country"
