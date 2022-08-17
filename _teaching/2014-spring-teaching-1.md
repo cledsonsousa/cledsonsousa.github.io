@@ -9,6 +9,6 @@ location: "City, Country"
 ---
 - Principais soluções de engenharia de tráfego para redes IP e não IP, SDN e mais!
 ======
-- Soluções Modernas para as Redes de Nova Geração
+- Soluções Modernas em Redes de Nova Geração
 ======
-- Programabilidade e automação em redes
+- Programabilidade e automação em Redes de Telecomunicações
