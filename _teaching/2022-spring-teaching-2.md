@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduação"
 permalink: /teaching/2022-spring-teaching-1
 venue: "UFF - Engenharia de Telecomunicações desde 2021"
-#date: 2022-01-01
+date: 2021-01-01
 location: "City, Country"
 ---
 - Conceitos de arquitetura de switches e roteadores e muito mais...
