@@ -1,15 +1,17 @@
 ---
-title: "Gerência de Redes e Engenharia de Tráfego"
+title: "Demais experiências no magistério"
 collection: teaching
 type: "Graduação"
-permalink: /teaching/2022-spring-teaching-1
-venue: "UFF - Engenharia de Telecomunicações, desde 2021"
+permalink: /teaching/2022-spring-teaching-3
+venue: "Outras Universidades, desde 2016"
 #date: 2022-01-01
 location: "City, Country"
 ---
-- Principais soluções de engenharia de tráfego para redes IP e não IP, SDN e mais!
+- Redes de Computadores e Python - UERJ
 ======
-- Soluções Modernas em Redes de Nova Geração
+- Orientação de TCC - CEDERJ
 ======
-- Programabilidade e automação em Redes de Telecomunicações
+- Comunicação de dados e Sistemas Operacionais - UNIGRANRIO
+======
+- Redes de Computadores, Sistemas Operacionais e Teoria da Computação - UNIPLI
 ======
