@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mini bio"
+title: "Prof.: Cledson de Sousa"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
