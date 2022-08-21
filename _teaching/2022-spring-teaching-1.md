@@ -1,5 +1,5 @@
 ---
-title: "Demais experiências no magistério"
+title: "Demais experiências no magistério superior"
 collection: teaching
 type: "Graduação"
 permalink: /teaching/2022-spring-teaching-3
