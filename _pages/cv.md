@@ -31,5 +31,5 @@ Ensino
   
 Projetos, pesquisa e extensão
 ======
-  <a href="https://cledsonsousa.github.io/portfolio" target="_top">Visite os Projetos.</a>
+  Visite os projetos <a href="https://cledsonsousa.github.io/portfolio" target="_top">aqui</a> e <a href="https://cledsonsousa.github.io/projetos/" target="_top">aqui.</a>
   
