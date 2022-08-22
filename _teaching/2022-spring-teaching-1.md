@@ -7,11 +7,10 @@ venue: "Outras Universidades"
 date: 2016-01-01
 location: "City, Country"
 ---
-- Redes de Computadores e Python - UERJ
-======
-- Orientação de TCC - CEDERJ
-======
-- Comunicação de dados e Sistemas Operacionais - UNIGRANRIO
-======
-- Redes de Computadores, Sistemas Operacionais e Teoria da Computação - UNIPLI
-======
+- <font size="5">Redes de Computadores e Python - UERJ</font>
+
+- <font size="5">Orientação de TCC - CEDERJ</font>
+
+- <font size="5">Comunicação de dados e Sistemas Operacionais - UNIGRANRIO</font>
+
+- <font size="5">Redes de Computadores, Sistemas Operacionais e Teoria da Computação - UNIPLI</font>
