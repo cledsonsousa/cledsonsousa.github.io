@@ -9,5 +9,5 @@ location: "City, Country"
 ---
 - <font size="5">  Principais soluções de engenharia de tráfego para redes IP e não IP, SDN e mais!</font>
 - <font size="5">Soluções Modernas em Redes de Nova Geração</font>
-- <font size="5">Programabilidade e automação em Redes de Telecomunicações</font>
+- <font size="5">Programabilidade, automação e gerência de Redes de Telecomunicações</font>
 
