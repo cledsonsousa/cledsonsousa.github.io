@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Educação
+Formação Acadêmica
 ======
-* Engenharia de Telecomunicações, UFF, 1997.
+* Graduação em Engenharia de Telecomunicações, UFF, 1997.
 * M.Sc. Engenharia de Telecomunicações - Tema: Redes de sensores, EE-UFF, 2013.
 * D. Sc. Computação - Tema: Radios Cognitivos, IC-UFF, 2019. 
 
