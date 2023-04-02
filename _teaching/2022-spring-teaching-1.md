@@ -3,8 +3,8 @@ title: "Demais experiências no magistério superior"
 collection: teaching
 type: "Graduação"
 permalink: /teaching/2022-spring-teaching-3
-venue: "Outras Universidades"
-date: 2016-01-01
+venue: "Outras Universidades até 2021"
+#date: 2016-01-01
 location: "City, Country"
 ---
 - <font size="5">Redes de Computadores e Python - UERJ</font>
