@@ -13,7 +13,8 @@ redirect_from:
 
 Um pouco de filosofia
 ======
-<p p align="justify"> Apaixonado por tecnologia, matemáticas (quase todas) e cerveja, curioso sobre como a Natureza nos deixou chegar até aqui. Enxergo no estoicismo um farol filosófico, que afasta a mente dos rochedos neste turbulento mar do antropoceno. Sigo Epiteto no "nada receio se nada espero".<br/>
+<p p align="justify"> Apaixonado por tecnologia, cerveja e matemáticas (quase todas), curioso sobre como a Natureza nos deixou chegar até aqui. 
+Enxergo no estoicismo um farol filosófico, que afasta a mente dos rochedos neste turbulento mar do antropoceno e sigo Epiteto no "nada receio se nada espero".<br/>
 Valorizo mais o esforço que o brilhantismo, mais ainda quando vem acompanhado da disciplina. Um pouco de malandragem também é bom, mas aquela positiva, que tira onda sem levar vantagem, muito menos sobre o esforço do alheio. Finalmente... Assim como às vezes precisamos de ajuda, também assim é o próximo. Cooperemos sempre que possível!  
 </p>
 
