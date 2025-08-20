@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Atividade 01 - do Planejamento à Representação de Dados"
