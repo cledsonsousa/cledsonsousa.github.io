@@ -4,38 +4,39 @@ title: "Atividade 01 - do Planejamento à Representação de Dados"
 subtitle: "Entrega 26.08.2025"
 ---
 
-
-##  Objetivo 
+## Atividade 01 - do Planejamento à Representação de Dados
+### Entrega 26.08.2025
+###  Objetivo 
 Exercitar a **reflexão metodológica** sobre visualização e representação de dados, mesmo antes da coleta.  
 O foco é pensar **como os dados de sua pesquisa poderiam ser adquiridos, organizados e representados**.
 
 ---
 
-##  Etapas da Atividade
+###  Etapas da Atividade
 
-### 1. Definição do Objeto de Interesse
+#### 1. Definição do Objeto de Interesse
 - Descreva **qual fenômeno ou questão da sua pesquisa**. O que você pretende observar.  
 - Exemplos:  
   - “Analisar latência em redes SDN”  
   - “Mapear atividades humanas com CSI”  
   - “Avaliar eficiência de um protocolo de roteamento”
 
-### 2. Esquema de Aquisição
+#### 2. Esquema de Aquisição
 - Explique **como os dados seriam obtidos**: sensores, logs, simulação, questionários, datasets públicos.  
 - Indique **variáveis principais**, **unidades de medida** e **periodicidade**.  
 - Caso não possua dados reais, Esboce **dataset hipotético** (ex.: tabela com 3 variáveis e 10 registros ilustrativos) ou crie um dataset sintético
 
-### 3. Estruturação e Modelagem
+#### 3. Estruturação e Modelagem
 - Identifique o **tipo de variável** (nominal, ordinal, quantitativa discreta/contínua).  
 - Esboce um **modelo tabular simples** (linhas e colunas) ou um **diagrama conceitual** mostrando relações entre variáveis.
 
-### 4. Escolha Preliminar de Representações
+#### 4. Escolha Preliminar de Representações
 - Escolha **duas formas gráficas** que imagina usar futuramente:
   - Uma **exploratória** (ex.: série temporal, histograma, mapa de calor).
   - Uma **sintética** (ex.: boxplot, gráfico de barras comparativo, grafo de nós).
 - Justifique por que essas representações fariam sentido para a sua pesquisa.
 
-### 5. Apresentação Curta (10–15 minutos - 5 a 10 slides )
+#### 5. Apresentação Curta (10–15 minutos - 5 a 10 slides )
 - Explique os itens acima e
   1. Qual a pergunta de pesquisa.  
   2. Como planeja adquirir os dados.  
