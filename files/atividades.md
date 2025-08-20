@@ -2,6 +2,7 @@
 layout: page
 title: "Atividades"
 ---
+
 ### Atividade 01 - Objetivos
 Exercitar a **reflexão metodológica** sobre visualização e representação de dados, mesmo antes da coleta.  
 O foco é pensar **como os dados de sua pesquisa poderiam ser adquiridos, organizados e representados**.
