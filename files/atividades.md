@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Atividades
+title: Atividade 01 - do Planejamento à Representação de Dados
 ---
-# Atividade 01 - Do Planejamento à Representação de Dados 
 # Entrega 26.08.2025
 
 ##  Objetivo 
