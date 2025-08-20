@@ -1,4 +1,8 @@
-#  Atividade: Do Planejamento à Representação de Dados 
+---
+layout: default
+title: Atividades
+---
+# Atividade 01 - Do Planejamento à Representação de Dados 
 # Entrega 26.08.2025
 
 ##  Objetivo 
@@ -38,7 +42,7 @@ O foco é pensar **como os dados de sua pesquisa poderiam ser adquiridos, organi
 
 
 
-# Atividade 2 – Apresentação Problemáticas em Artigos Científicos
+# Atividade 02 – Apresentação Problemáticas em Artigos Científicos
 
 ## Objetivo
 Desenvolver senso crítico e habilidade para identificar armadilhas visuais, vieses perceptivos e problemas estatísticos em gráficos publicados em trabalhos científicos.
