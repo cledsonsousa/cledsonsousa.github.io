@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Home"
+title                    : "Home Professor Cledson de Sousa"
 title_separator          : "-"
-name                     : &name "Cledson de Sousa"
+name                     : &name "Professor Cledson de Sousa"
 description              : &description "personal description"
 url                      : https://cledsonsousa.github.io # base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          :
+    tracking_id: "G-NRMVGG3JBP"
 
 
 # Site Author
