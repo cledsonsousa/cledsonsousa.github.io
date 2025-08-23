@@ -73,9 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-NRMVGG3JBP"
+   provider: false
 
 
 # Site Author
