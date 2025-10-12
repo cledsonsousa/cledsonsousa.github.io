@@ -9,10 +9,10 @@ Faixa 1 -- Colaboração Internacional
 
 **Fusão de Dados CSI e Imagens Térmicas Para Identiticação Confiável de
 Atividades Humanas**
-:::
-:::
 
-::: center
+
+
+ center
 **Proposta de Projeto -- CNPq Chamada nº 16/2025**\
 Faixa 1 -- Colaboração Internacional\
 **Título do Projeto:** Seleção de Portadoras e Fusão de Dados CSI com
@@ -21,7 +21,7 @@ Imagens Térmicas Para Identiticação Confiável de Atividades Humanas\
 Fluminense (UFF)\
 **Instituição Parceira no Exterior:** Brunel University of London --
 Prof.: George Ghinea\
-:::
+
 
 # Resumo
 
@@ -387,7 +387,7 @@ e avaliação dos resultados do projeto, conforme diretrizes do CNPq:
 
 # Cronograma de Execução
 
-::: center
+ center
    **Período (mês)**  **Atividade Principal**                      **Produto Esperado**
   ------------------- -------------------------------------------- ----------------------------------
          0--3         Planejamento e revisão bibliográfica         Protocolo de coleta CSI--IR
@@ -395,7 +395,7 @@ e avaliação dos resultados do projeto, conforme diretrizes do CNPq:
          7--12        Fusão bayesiana e modelagem CNN multimodal   Relatório técnico e publicação 1
         13--18        Testes clínicos e validação                  Protótipo CSI_BPM/CSI_RPM
         19--24        Integração e disseminação dos resultados     Artigos e relatório final
-:::
+
 
 # Resultados Esperados
 
