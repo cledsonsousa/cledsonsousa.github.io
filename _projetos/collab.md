@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Resumo do Orçamento CNPq"
+permalink: /orcamento2025/
+---
+
 ::: titlepage
 ::: center
 **Chamada CNPq Nº 16/2025**
