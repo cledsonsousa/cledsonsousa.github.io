@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resumo do Orçamento CNPq"
-permalink: /orcamento2025/
+permalink: /chamada_cnpq/
 ---
 
 ::: titlepage
