@@ -385,16 +385,15 @@ e avaliação dos resultados do projeto, conforme diretrizes do CNPq:
 -   Liberação de um dataset CSI--térmico anotado, em acesso aberto, com
     potencial de reutilização por outras equipes de pesquisa;
 
-# Cronograma de Execução
+**Tabela – Cronograma de Execução**
 
- center
-   **Período (mês)**  **Atividade Principal**                      **Produto Esperado**
-  ------------------- -------------------------------------------- ----------------------------------
-         0--3         Planejamento e revisão bibliográfica         Protocolo de coleta CSI--IR
-         4--6         Desenvolvimento de ferramentas de captura    Protótipo CSI_View v1.0
-         7--12        Fusão bayesiana e modelagem CNN multimodal   Relatório técnico e publicação 1
-        13--18        Testes clínicos e validação                  Protótipo CSI_BPM/CSI_RPM
-        19--24        Integração e disseminação dos resultados     Artigos e relatório final
+| Período (mês) | Atividade Principal | Produto Esperado |
+|:--------------:|:--------------------|:-----------------|
+| 0–3  | Planejamento e revisão bibliográfica | Protocolo de coleta CSI–IR |
+| 4–6  | Desenvolvimento de ferramentas de captura | Protótipo CSI_View v1.0 |
+| 7–12 | Fusão bayesiana e modelagem CNN multimodal | Relatório técnico e publicação 1 |
+| 13–18 | Testes clínicos e validação | Protótipo CSI_BPM/CSI_RPM |
+| 19–24 | Integração e disseminação dos resultados | Artigos e relatório final |
 
 
 # Resultados Esperados
