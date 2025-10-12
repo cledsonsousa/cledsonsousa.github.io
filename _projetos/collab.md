@@ -4,9 +4,6 @@ title: "Resumo do Orçamento CNPq"
 permalink: /chamada_cnpq/
 ---
 
-::: titlepage
-::: center
-**Chamada CNPq Nº 16/2025**
 
 Faixa 1 -- Colaboração Internacional
 
