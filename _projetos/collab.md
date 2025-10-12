@@ -389,10 +389,10 @@ e avaliação dos resultados do projeto, conforme diretrizes do CNPq:
 
 | Período (mês) | Atividade Principal | Produto Esperado |
 |:--------------:|:--------------------|:-----------------|
-| 0–3  | Planejamento e revisão bibliográfica | Protocolo de coleta CSI–IR |
-| 4–6  | Desenvolvimento de ferramentas de captura | Protótipo CSI_View v1.0 |
+| 0–3  | Planejamento e revisão bibliográfica | Protocolo de coleta CSCSI |
+| 4–6  | Desenvolvimento de ferramentas de captura | Protótipo CSI Fusion |
 | 7–12 | Fusão bayesiana e modelagem CNN multimodal | Relatório técnico e publicação 1 |
-| 13–18 | Testes clínicos e validação | Protótipo CSI_BPM/CSI_RPM |
+| 13–18 | Testes clínicos e validação | Protótipo CSI Fusion |
 | 19–24 | Integração e disseminação dos resultados | Artigos e relatório final |
 
 
@@ -450,14 +450,6 @@ internacional.
 | M4 | Mês 20–21            | Finalização de artigos, preparação de submissões futuras e planejamento de continuidade. |
     
 
-**Tabela 2 – Resumo do orçamento solicitado ao CNPq (Faixa 1)**
-
-| Item | Qtd. | Valor unitário (R$) | Total (R$) |
-|:--------------------------------|:----:|:----------------------:|:-------------:|
-| Passagens aéreas internacionais | 8 | 8.000,00 | 64.000,00 |
-| Diárias internacionais (7 dias/pessoa) | 56 | 1.200,00 | 67.200,00 |
-| Seguro-saúde internacional | 8 | 500,00 | 4.000,00 |
-| **Total estimado** | — | — | **135.200,00** |
 
 
 Equipamentos (como câmeras térmicas, roteadores CSI e servidores GPU),
