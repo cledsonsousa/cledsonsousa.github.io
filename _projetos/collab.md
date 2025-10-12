@@ -12,7 +12,7 @@ Atividades Humanas**
 
 
 
- center
+ 
 **Proposta de Projeto -- CNPq Chamada nº 16/2025**\
 Faixa 1 -- Colaboração Internacional\
 **Título do Projeto:** Seleção de Portadoras e Fusão de Dados CSI com
