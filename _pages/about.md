@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prof.: Cledson de Sousa"
+title: "Prof. Cledson de Sousa"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-<p p align="justify">Concluiu sua graduação em Engenharia de Telecomunicações em 1997, seu mestrado também em Engenharia de Telecomunicações em 2013 e seu doutoramento em Computação no Instituto de Computação em 2019, todos na Universidade Federal Fluminense. Atualmente leciona como adjunto no Departamento de Engenharia de Telecomunicações da mesma Instituição. Realiza pesquisas na área de teleinformática com interesse nos seguintes temas: Redes de Sensores, Rádios Cognitivos, Redes Definidas por Software e Channel State Information. <br/>
- </p>
+<p align="justify">
+Concluiu a graduação em Engenharia de Telecomunicações em 1997, o mestrado na mesma área em 2013 e o doutorado em Computação em 2019, todos pela Universidade Federal Fluminense. Atualmente é professor adjunto do Departamento de Engenharia de Telecomunicações da UFF. Atua na área de teleinformática, com interesse em Redes de Sensores, Rádios Cognitivos, Redes Definidas por Software e Channel State Information.
+</p>
 
-Um pouco de filosofia
-======
-<p p align="justify"> Apaixonado por tecnologia, cerveja e matemáticas (quase todas), curioso sobre como a Natureza nos deixou chegar até aqui. 
-Enxergo no estoicismo um farol filosófico, que afasta a mente dos rochedos neste turbulento mar do antropoceno e sigo Epiteto no "nada receio se nada espero".<br/>
-Valorizo mais o esforço que o brilhantismo, mais ainda quando vem acompanhado da disciplina. Um pouco de malandragem também é bom, mas aquela positiva, que tira onda sem levar vantagem, muito menos sobre o esforço do alheio. Finalmente... Assim como às vezes precisamos de ajuda, também assim é o próximo. Cooperemos sempre que possível!  
+## Um pouco de filosofia
+
+<p align="justify">
+Apaixonado por tecnologia, cerveja e matemáticas (quase todas), cultiva curiosidade permanente sobre como a Natureza nos permitiu chegar até aqui. Enxerga no estoicismo um farol filosófico — não como refúgio, mas como orientação — capaz de afastar a mente dos rochedos no turbulento mar do Antropoceno. Segue Epicteto no princípio de “nada receio se nada espero”.
+</p>
+
+<p align="justify">
+Valoriza mais o esforço do que o brilhantismo, especialmente quando o esforço vem acompanhado de disciplina. Admito certa dose de malandragem — desde que não se traduza em vantagem indevida e jamais à custa do esforço do outro. Afinal, assim como em alguns momentos precisamos de ajuda, o próximo também precisa. Cooperar, sempre que possível, é ao mesmo tempo uma escolha ética e  racional.
 </p>
 
 
