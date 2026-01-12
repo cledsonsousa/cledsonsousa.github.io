@@ -19,7 +19,7 @@ Apaixonado por tecnologia, cerveja e matemáticas (quase todas), cultiva curiosi
 </p>
 
 <p align="justify">
-Valoriza mais o esforço do que o brilhantismo, especialmente quando o esforço vem acompanhado de disciplina. Admito certa dose de malandragem — desde que não se traduza em vantagem indevida e jamais à custa do esforço do outro. Afinal, assim como em alguns momentos precisamos de ajuda, o próximo também precisa. Cooperar, sempre que possível, é ao mesmo tempo uma escolha ética e  racional.
+Valoriza mais o esforço do que o brilhantismo, especialmente quando o esforço vem acompanhado de disciplina. Admito certa dose de malandragem, aquela que não se traduz em vantagem indevida e jamais à custa do esforço do outro. Afinal, assim como em alguns momentos precisamos de ajuda, o próximo também precisa. Cooperar, sempre que possível, é ao mesmo tempo uma escolha ética e  racional.
 </p>
 
 
