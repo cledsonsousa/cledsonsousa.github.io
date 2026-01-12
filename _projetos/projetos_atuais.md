@@ -43,16 +43,6 @@ telessaúde e aplicações de TIC para Doenças Crônicas Não Transmissíveis (
 
 ---
 
-## Projetos de Desenvolvimento Tecnológico (em andamento)
-
-### Monitoramento Remoto de Sensores Óticos para Redes de Energia Elétrica
-**Período:** 2023 – atual  
-**Descrição:** Desenvolvimento de soluções de baixo custo para interrogadores de sensores ópticos (SB-FBG e SB-LPG),
-integrando sistemas embarcados, comunicação de dados e processamento elétrico para monitoramento remoto de redes de energia.  
-**Instituição:** Universidade Federal Fluminense (UFF)
-
----
-
 ## Projetos de Extensão (em andamento)
 
 ### UFF Data Academy
