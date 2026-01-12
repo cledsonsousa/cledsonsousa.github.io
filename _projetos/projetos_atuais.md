@@ -5,9 +5,7 @@ permalink: /projetos/
 author_profile: true
 ---
 
-Esta página reúne os principais **projetos de pesquisa, desenvolvimento tecnológico e extensão**
-em que atuo ou atuei recentemente, nas áreas de **Telecomunicações, Sensoriamento, Redes,
-Sistemas Inteligentes e Ciência de Dados**, conforme registrado no Currículo Lattes.
+Esta página reúne os principais **projetos de pesquisa, desenvolvimento tecnológico e extensão** em que atuo ou atuei recentemente, nas áreas de **Telecomunicações, Sensoriamento, Redes,Sistemas Inteligentes e Ciência de Dados**.
 
 ---
 
@@ -65,7 +63,7 @@ em parceria com empresas como Cisco, Huawei, Oracle e Juniper.
 
 ---
 
-## Projetos Concluídos (seleção)
+## Projetos Concluídos 
 
 ### TELE-SIRIS – Simulador de Redes Inteligentes
 **Período:** 2014 – 2017  
