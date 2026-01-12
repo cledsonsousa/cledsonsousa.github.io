@@ -7,4 +7,4 @@ title: "Artigos e apresesentações"
 # paperurl: Consulte 'http://lattes.cnpq.br/7195080748145566'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
- <a href="http://lattes.cnpq.br/7195080748145566" target="_top">Visite meu o Lattes</a>
+ <a href="https://scholar.google.com.br/citations?user=uolPS8YAAAAJ&hl=pt-BR" target="_top">Visite meu Perfil No Google Scholar</a>
